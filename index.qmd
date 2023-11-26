@@ -1,0 +1,7 @@
+# Förord {.unnumbered}
+
+Visa graf med korrelation mellan hur bra man är på att laga mat och hur mycket man får ligga:
+
+```{r}
+1 + 1
+```
