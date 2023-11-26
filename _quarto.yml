@@ -1,6 +1,6 @@
 project:
   type: book
-  output-dir: ../jonsam19.github.io/docs
+  output-dir: docs
 
 book:
   title: "Pärs kokbok"
